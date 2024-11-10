@@ -5,3 +5,6 @@ print(mytup)
 print(mytup[2][2])
 newtup=('c','a','r')
 print(newtup[0:2])
+thistuple=("apple","banana","cherry")
+for x in thistuple:
+    print(x)
