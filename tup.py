@@ -1,0 +1,7 @@
+tup=(1,2,3,"AV",'V')
+print(tup)
+mytup=("car",[1,2,3],(4,5,6),'A')
+print(mytup)
+print(mytup[2][2])
+newtup=('c','a','r')
+print(newtup[0:2])
